@@ -7,11 +7,7 @@
 
 <h1>Lending & Borrowing Auto-Yield Contract</h1>
 
-<p>
-This project shows a simple on-chain lending and borrowing system written in Solidity.
-Users can supply tokens, borrow against collateral, repay loans, and withdraw funds
-while respecting collateral safety rules.
-</p>
+
 
 <hr>
 
