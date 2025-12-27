@@ -44,7 +44,7 @@
 
   <hr>
 
-  <h2>What the User Does (Simple Flow)</h2>
+  <h2>What the User Does</h2>
 
   <ul>
     <li>
