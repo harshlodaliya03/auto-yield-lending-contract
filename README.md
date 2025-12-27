@@ -6,18 +6,6 @@
 <body>
 
   <h1>Auto-Yield Vault</h1>
-
-  <p>
-    This project is a simple auto-yield vault written in Solidity. 
-    It demonstrates basic DeFi concepts such as ERC-20 approvals, token deposits,
-    yield generation over time, and withdrawals.
-  </p>
-
-  <p>
-    The contracts were developed and tested using <strong>Remix IDE (VM – London)</strong>
-    as part of an internship assignment.
-  </p>
-
   <hr>
 
   <h2>Contracts</h2>
