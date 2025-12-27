@@ -129,11 +129,7 @@
 
   <hr>
 
-  <h2>Status</h2>
-  <p>
-    The project was completed successfully and verified using on-chain contract state
-    and transaction logs in Remix.
-  </p>
+
 
 </body>
 </html>
